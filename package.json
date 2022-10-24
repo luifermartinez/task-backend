@@ -10,6 +10,7 @@
     "test": "mocha -r ts-node/register 'tests/**/*.ts'",
     "cypress:open": "cypress open"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
